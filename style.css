@@ -1,0 +1,30 @@
+body {
+	background-color:lightsteelblue	;
+	color:#555555;
+	font-family:Tahoma,Arial,Helvetica,sans-serif;
+	font-size:14px;
+	text-align:center;
+	padding: 0px;
+    	margin: 0px;	
+}
+
+nav {
+	background-color: lightsteelblue;
+}
+
+a.menu {
+	display:  inline-block;
+	width: 25%;
+	padding:  20px 35px;
+	color: white;
+	text-decoration: none;
+	text-align:  center;
+		font-size:18px;
+}
+a.menu:hover {
+	background-color: darkgrey;
+}
+
+.active {
+	background-color: darkgrey;
+}
